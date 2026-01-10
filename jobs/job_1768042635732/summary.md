@@ -1,0 +1,98 @@
+
+# LoRAForge Job Summary: job_1768042635732
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+**Timestamp:** Sat, 10 Jan 2026 11:02:25 GMT
+
+## 📝 Generation Configuration
+- **AI Model:** `gemini-2.5-flash-image`
+- **Core Visual Prompt:** 
+  > aoyuki (mugen gacha), 1girl, solo, blue hair, purple eyes, short hair, bangs, white hoodie, hood up, cat ear hood, oversized sleeves, paw gloves, black belt, belt tail
+- **Story & Background:** 
+  > Aoyuki(アオユキ is the SUR LVL9999 "Monster Tamer" and one of Light's four SUR level 9999 card and the second companion to be summoned via Unlimited Gacha. She is also one of Light's first loyal partners who aids his quest of vengeance against his his former party. Despite her childlike appearance and cat-like demeanor, she is a master of all beasts and a fiercely loyal, sharp-tongued commander whose true power is a threat to even the strongest foes.
+Appearance
+Aoyuki is a beautiful young girl with blue hair and a youthful face, often seen wearing a hoodie with cute cat ears. She is the shortest of all the Level 9999 members. Her small stature is further emphasized by her habit of moving around on all fours, making her appear even more petite and animal-like.
+
+Personality
+At first glance, Aoyuki seems carefree and simple, as she usually only communicates with a soft "Nya." In reality, she possesses a very harsh and sharp-tongued personality. She is perfectly capable of speaking normally but chooses not to, reserving her terrifying verbal tirades for moments when she is truly angered. Her loyalty to her master, Light, is absolute; she is willing to be seen as his pet if he desires it. This devotion is so intense that she considers even the adoring "panting" from other followers to be disrespectful, nearly leading to a clash with Ellie over the matter. She acts as a check on her allies, admonishing them if their words or actions towards their master become too blatant.
+
+Background
+Aoyuki was the second SUR card companion that Light summoned using his "Infinite Gacha" skill. She possesses the unique ability to tame any creature, from common animals to magical beasts, and even divine ones.
+
+All monsters summoned through the "Infinite Gacha" automatically fall under her command. This has allowed her to amass a colossal army of monsters capable of easily annihilating the military forces of entire surface nations.
+
+Story
+Warning: The following section contains major spoilers from the Web Novel and Light Novel.
+
+Beastkin Subjugation Operation (Web Novel Only)
+
+After defeating an assassin from the Dragonkin Empire 'Master', the group learned that the beastkin were planning a suicide attack against Ellie, using human hostages. Enraged, Light ordered the complete annihilation of the beastkin forces on the battlefield.
+
+Ellie isolated the battlefield with the Mythic-class magic item "World is World." Aoyuki then entered the isolated space with a massive army of monsters ranging from Level 5000 to 9000. As a training exercise in army command, she and her forces proceeded to slaughter all 2,000 beastkin.
+
+Rescuing the Master's Brother
+
+When it was discovered that Light's brother, Els, had been horrifically transformed into a monster by Doku of the Demon Country 'Master', Aoyuki and Mei accompanied Light on a mission to rescue him.
+
+Although they successfully captured Doku, Els tragically took his own life. Aoyuki was left overwhelmed with guilt and self-blame following the incident.
+
+Fake 'C' Subjugation Operation
+
+Following the conflict with the Demon Country, a powerful entity known as the Fake 'C' (in reality, a Level 9999 member of 'Master') was accidentally unsealed. Aoyuki was the first to volunteer for the dangerous task of defeating it.
+
+She and her monsters were assigned the mission. Despite struggling against the Fake 'C's ability to induce madness, Aoyuki ultimately succeeded in defeating it. However, the enemy disintegrated into dust upon defeat, making it impossible for Ellie to extract its memories.
+
+'Sacred Armor Hero' Subjugation Operation (Web Novel Only)
+
+The Goddess Cult suddenly declared Ellie a Demon Lord and four new heroes emerged. The heroes began by plotting the murder of Saintess Miya and Priest Kuone of the Church of the Giant Tower, even targeting their families.
+
+Aoyuki and Suzu were tasked with defending Miya's hometown. There, they confronted the 'Sacred Armor Hero,' Moza, who could manipulate wind and nullify Suzu's magic bullets. Aoyuki countered by unleashing 'SSSR Super Gravity,' pinning both Moza and Suzu to the ground. After brutally beating the immobilized hero, she captured him.
+
+Battle with Gou and Sesta (Web Novel Only)
+
+After learning that Hiro, the leader of the Dragonkin Empire 'Master', was responsible for destroying Light's village, the group set out for revenge. Light shot down the 'Master's' ark, and Aoyuki arrived at the crash site with the other Level 9999 members.
+
+A teleportation circle then activated, sending everyone to an underwater dungeon. While searching for her allies, Aoyuki ran into Gou and Sesta of 'Master' and engaged them in a 1-vs-2 battle. She held the advantage, as her mid-range combat style countered Gou's close-quarters specialty, and Sesta proved to be more of a hindrance to her own partner.
+
+
+Advertisement
+Abilities
+As a Level 9999 character, Aoyuki possesses extraordinary abilities. Her physical specs are off the charts; despite her small size, she can move freely in super-gravity that would incapacitate a Level 7000 individual and can kick a fully armored person like a ball.
+
+However, her individual combat prowess is relatively low among the Level 9999s, second only to Mei. In a mock battle against Light without magic, she was defeated even while using her Beast Chain.
+
+Aoyuki's true strength lies in her role as a commander. She can tame any magical, divine, phantom, or rare beast and direct them in real-time with masterful tactics.
+
+When leading her monsters in a coordinated assault, her combat effectiveness becomes a force that even the powerful Ellie cannot afford to ignore. She also uses her connection with tamed creatures like rats and small birds to share their senses, gathering vast amounts of information from across the land.
+
+Weapon: Beast Chain
+
+Aoyuki wields "Beast Chain," a Fantasy-class Magic Weapon. It appears as a collar with large spikes, connected to a long chain.
+
+This weapon can force any monster into submission once the collar is clasped around its neck. While it cannot subjugate non-monsters, it can be used to restrain them by wrapping it around their neck, wrists, or ankles.
+
+The collar also has a tracking function, allowing it to pursue a target indefinitely. As a thrown weapon, it packs immense power; a direct hit from Aoyuki can send even a Level 9999 opponent flying far away, smashing them into any wall in their path.
+
+Ultimate Skill: Summon Manifestation
+
+Aoyuki's trump card is "Summon Manifestation." By placing the collar of the Beast Chain on her own neck, she can manifest and use the abilities of her subordinate monsters.
+
+She can even combine the powers of two different monsters. She has demonstrated this by merging the abilities of Progenitor Fenrir and Phoenix to create a massive explosion of heat and cold, and by fusing the powers of Cerberus and a poison spider to unleash a deadly wave of venom.
+- **Active Tags:** `CHARACTER`
+- **Aspect Ratio:** 1:1
+- **Web Scouting Enabled:** No
+- **Automatic Tagging Enabled:** No
+
+## 📊 Dataset Results
+- **Total Goal:** 25 assets
+- **Reference Images Used:** 1
+- **Assets Scouted from Web:** 0
+- **Assets Forged by AI:** 25
+
+---
+
+*This data was generated and archived automatically via the LoRAForge application.*
+*Forged images for this job are located in the `/generated_images` sub-directory.*
+*Reference images are located in the `/references` sub-directory.*
+    
